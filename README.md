@@ -1,3 +1,3 @@
 # price-track
 
-The code utlized api to capture monthly commodity price. 
+The code utlized api to capture monthly commodity price.
